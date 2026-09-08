@@ -13,8 +13,8 @@ No major changes were needed from my original design.
 ## Updated UML Class Diagram
 +--------------------------------------------+
 | Filipino UAAP Women's Volleyball |
-
 +--------------------------------------------+
+
 | + Length : int |
 | + Available : boolean |
 | - Points : int |
