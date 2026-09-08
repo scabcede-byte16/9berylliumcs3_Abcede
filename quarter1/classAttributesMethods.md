@@ -46,7 +46,8 @@ No major changes were needed from my original design.
 <img width="1181" height="391" alt="image" src="https://github.com/user-attachments/assets/39eb9928-3f74-49ce-ab43-d55d7f2a105c" />
 
 ## Object Diagram
-![Object Diagram](images/objectDiagram.png)
+<img width="438" height="403" alt="image" src="https://github.com/user-attachments/assets/e487bc8b-d6be-4ae3-9e55-d074dc153840" />
+
 ## Analysis
 ### Why did you make your chosen attribute private?
 
@@ -54,10 +55,12 @@ In our society today, instead of using the score to know what to improve, they u
 
 ### Which method changes the state of your object?
 
-
+The method that changes the state of my object is points because it has a parameter
 
 ### How did your two objects demonstrate that instances are independent?
 
-
+It demonstrated that the two instances are independent since one object with a different data field does not mean that the other object has the same data field.
 
 ### What is the difference between your class diagram and your object diagram?
+
+The class diagram is the blue print while the object diagram shows what I can do with the blueprint.
