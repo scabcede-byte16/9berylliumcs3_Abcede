@@ -43,7 +43,8 @@ No major changes were needed from my original design.
 
 [View Python Source](classImplementation.py)
 ## Test Run
-![Test Run](images/classTestRun.png)
+<img width="1181" height="391" alt="image" src="https://github.com/user-attachments/assets/39eb9928-3f74-49ce-ab43-d55d7f2a105c" />
+
 ## Object Diagram
 ![Object Diagram](images/objectDiagram.png)
 ## Analysis
