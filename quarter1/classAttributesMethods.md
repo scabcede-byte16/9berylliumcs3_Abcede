@@ -60,6 +60,3 @@ In our society today, instead of using the score to know what to improve, they u
 
 
 ### What is the difference between your class diagram and your object diagram?
-
-
-
