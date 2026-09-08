@@ -6,10 +6,15 @@ Link to my previous activity:
 No major changes were needed from my original design.
 ## Visibility Decisions
 | Attribute | Data Type | Visibility | Reason |
+
 | Length | int | public | This attribute is public because the length of the game should be seen for those who want to watch with limited time. |
+
 | Available | boolean | public | The availability is public because it should be seen if the game is available or not. |
+
 | Points | int | private | Points are private to prevent comparisons. |
+
 | Name | string | public | The name is public to check what two teams are currently in a match. |
+
 ## Updated UML Class Diagram
 +--------------------------------------------+
 | Filipino UAAP Women's Volleyball |
