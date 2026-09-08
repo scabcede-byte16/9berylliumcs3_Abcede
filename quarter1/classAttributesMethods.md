@@ -16,13 +16,21 @@ No major changes were needed from my original design.
 +--------------------------------------------+
 
 | + Length : int |
+
 | + Available : boolean |
+
 | - Points : int |
+
 | + Name : string |
+
 +--------------------------------------------+
+
 | + method() |
+
 | + method(parameter : datatype)|
+
 | + getSomething() |
+
 +--------------------------------------------+
 ## Python Implementation
 
