@@ -43,6 +43,18 @@ No major changes were needed from my original design.
 ![Object Diagram](images/objectDiagram.png)
 ## Analysis
 ### Why did you make your chosen attribute private?
+
+In our society today, instead of using the score to know what to improve, they use the score to ridicule the losing team.
+
 ### Which method changes the state of your object?
+
+
+
 ### How did your two objects demonstrate that instances are independent?
+
+
+
 ### What is the difference between your class diagram and your object diagram?
+
+
+
