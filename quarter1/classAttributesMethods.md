@@ -25,11 +25,13 @@ No major changes were needed from my original design.
 
 +--------------------------------------------+
 
-| + method() |
+| displayLength(Length_of_Game) |
 
-| + method(parameter : datatype)|
+| displayAvailable(Availability_of_game) |
 
-| + getSomething() |
+| displayPoints(Amount_of_Points) |
+
+| displayName(Name_of_schools) |
 
 +--------------------------------------------+
 ## Python Implementation
