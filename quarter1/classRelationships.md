@@ -23,7 +23,7 @@ Explanation: A team is defined by a group of people working together. The athlet
 ## Multiplicity
 Multiplicity: one to many: Team ───────── Athletes
 
-Explanation:
+Explanation: There are multiple athletes inside a team. That's why I chose one to many because one team can have multiple athletes.
 
 ## UML Class Relationship Diagram
 ![Class Relationship Diagram](images/classRelationshipDiagram.png)
