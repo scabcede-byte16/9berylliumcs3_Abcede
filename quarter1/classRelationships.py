@@ -38,7 +38,6 @@ print("Object 1: displayInfo")
 print("Object 2: displayInfo")
 print("Object 3: displayInfo")
 
-
 class UAAPWomensVolleyballAthletes:
     def __init__(self, Athlete, Position, Team, Status):
         self.Athlete = Athlete
