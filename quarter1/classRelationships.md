@@ -30,7 +30,7 @@ Explanation: There are multiple athletes inside a team. That's why I chose one t
 )
 
 ## Python Implementation
-[View Python Source](classRelationships.py)
+[View Python Source](https://github.com/scabcede-byte16/9berylliumcs3_Abcede/blob/8fd860d3a5c9cad985cc2733c79f1194bd682e81/quarter1/classRelationships.py)
 
 ## Test Run
 ![Relationship Test Run](<img width="1058" height="894" alt="image" src="https://github.com/user-attachments/assets/50d9f52f-8af0-453f-8657-09ebdc281f91" />
