@@ -8,7 +8,7 @@
 ## Existing Class
 Class: Filipino UAAP Women’s Volleyball
 
-Description: This class is made for the teams that are participating in UAAP Women’s Volleyball and their games.
+Description: This class is made for the specific teams that are participating in UAAP Women’s Volleyball and their games.
 
 ## New Related Class
 Class: UAAP Women’s Volleyball Athletes
