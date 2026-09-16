@@ -26,18 +26,19 @@ Multiplicity: one to many: Team ───────── Athletes
 Explanation: There are multiple athletes inside a team. That's why I chose one to many because one team can have multiple athletes.
 
 ## UML Class Relationship Diagram
-![Class Relationship Diagram](<img width="1080" height="1920" alt="YourClass +--------------------+  class blueprint  +--------------------+  -------------------   v v object1  YourClass object2  YourClass +-------------------+ +-------------------+  attr = value (1)" src="https://github.com/user-attachments/assets/f58a769e-794d-430d-81a5-ef3decc9e3b3" />
+(<img width="1080" height="1920" alt="YourClass +--------------------+  class blueprint  +--------------------+  -------------------   v v object1  YourClass object2  YourClass +-------------------+ +-------------------+  attr = value (1)" src="https://github.com/user-attachments/assets/f58a769e-794d-430d-81a5-ef3decc9e3b3" />
 )
 
 ## Python Implementation
 [View Python Source](https://github.com/scabcede-byte16/9berylliumcs3_Abcede/blob/8fd860d3a5c9cad985cc2733c79f1194bd682e81/quarter1/classRelationships.py)
 
 ## Test Run
-![Relationship Test Run](<img width="1058" height="894" alt="image" src="https://github.com/user-attachments/assets/50d9f52f-8af0-453f-8657-09ebdc281f91" />
+(<img width="1058" height="894" alt="image" src="https://github.com/user-attachments/assets/50d9f52f-8af0-453f-8657-09ebdc281f91" />
 )
 
 ## Object Relationship Diagram
-![Object Relationship Diagram](images/objectRelationshipDiagram.png)
+(<img width="2000" height="2000" alt="1" src="https://github.com/user-attachments/assets/1999af26-c5d1-40c8-9cbc-ae905aa59db0" />
+)
 
 ## Analysis
 ### What is the association between your two classes?
