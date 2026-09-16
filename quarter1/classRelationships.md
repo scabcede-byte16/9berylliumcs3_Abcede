@@ -42,8 +42,28 @@ Explanation: There are multiple athletes inside a team. That's why I chose one t
 
 ## Analysis
 ### What is the association between your two classes?
+
+- The athletes are the ones that make the effort to make a team. The team unites the athletes by giving them a shared goal. The team is acts as a support system to each athlete.
+
 ### What multiplicity did you choose and why?
+
+- I chose the multiplicity one to many. This is because one team can be connected to multiple athletes. A team cannot be a team without having multiple people.
+
 ### How did you implement the relationship in Python?
+
+- I implemented it by putting it in a list.
+
 ### Why did you store an object reference instead of copying its data?
+
+- Because if I simply copy the data, the performance won't be as good.
+
 ### If your relationship uses many, why is a list appropriate?
 
+- A list is appropriate because it keeps things organized.
+
+LLM used: -> Built-in Gemini feature when searching in Google
+Prompt/s:
+"How to fix a syntax error"
+"Explain multiplicity in python"
+"Define a team"
+"Is Angel Canino currently an active player?"
