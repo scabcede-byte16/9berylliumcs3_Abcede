@@ -38,29 +38,29 @@ print("Object 1: displayInfo")
 print("Object 2: displayInfo")
 print("Object 3: displayInfo")
 
-class UAAPWomensVolleyballAthletes:
-    def __init__(self, Athlete, Position, Team, Status):
-        self.Athlete = Athlete
-        self.Position = Position
-        self.Team = Team
-        self.Status = Status
+class UAAPWomensVolleyballAthletes :
+     def __init__(self, Athlete, Position, Team, Status):
+         self.Athlete = Athlete
+         self.Position = Position
+         self.Team = Team
+         self.Status = Status
 
-        def displayAthleteInfo(self):
-            print(f"Athlete: {self.Athlete}, Position: {self.Position}, Team: {self.Team}, Status: {self.Status}")
+     def displayAthleteInfo(self):
+        print(f"Athlete: {self.Athlete}, Position: {self.Position}, Team: {self.Team}, Status: {self.Status}")
 
-        def updateStatus(self, new_status):
-            self.Status = new_status
-            print(f"Updated Status: {self.Status}")
+     def updateStatus(self, new_status):
+        self.Status = new_status
+        print(f"Updated Status: {self.Status}")
 
-        def displayTeam(self):
-            print(f"Athlete: {self.Athlete}, Team: {self.Team}")
+     def displayTeam(self):
+        print(f"Athlete: {self.Athlete}, Team: {self.Team}")
 
-        def displayPosition(self):
-            print(f"Athlete: {self.Athlete}, Position: {self.Position}")
+     def displayPosition(self):
+        print(f"Athlete: {self.Athlete}, Position: {self.Position}")
 
-object4 = UAAPWomensVolleyballAthletes("Maria Cassandra Rae Carballo", "Setter", "UST Golden Tigresses", "Active")
-object5 = UAAPWomensVolleyballAthletes("Angel Anne Canino", "Outside Hitter", "DLSU Lady Spikers", "Active")
-object6 = UAAPWomensVolleyballAthletes("Shaira Jardio", "Libero", "National University Lady Bulldogs", "Active")
+object4 = UAAPWomensVolleyballAthletes ("Maria Cassandra Rae Carballo", "Setter", "UST Golden Tigresses", "Active")
+object5 = UAAPWomensVolleyballAthletes ("Angel Anne Canino", "Outside Hitter", "DLSU Lady Spikers", "Active")
+object6 = UAAPWomensVolleyballAthletes ("Shaira Jardio", "Libero", "National University Lady Bulldogs", "Active")
 
 object4.displayAthleteInfo()
 object5.displayAthleteInfo()
