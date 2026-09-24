@@ -43,7 +43,7 @@ class UAAPWomensVolleyballAthletes(FilipinoUAAPWomensVolleyball):
         self.status = Status
 
     def displayAthleteInfo(self):
-        print(f"Athlete Name: {self.AthleteName}, Position: {self.Position}, Team: {self.team}, Status: {self.status}")
+        print(f"Name: {self.Name}, Athlete Name: {self.AthleteName}, Position: {self.Position}, Team: {self.team}, Status: {self.status}")
 
     def updateStatus(self, new_status):
         self.status = new_status
@@ -58,6 +58,10 @@ class UAAPWomensVolleyballAthletes(FilipinoUAAPWomensVolleyball):
     def displayPosition(self):
         print(f"Position: {self.Position}")
 
+    def displayallInfo(self):
+        print(f"Length: {self.Length}, Available: {self.Available}, Points: {self.Points}, Name: {self.Name}, Athlete Name: {self.AthleteName}, Position: {self.Position}, Team: {self.team}, Status: {self.status}")
+
+
 object4 = UAAPWomensVolleyballAthletes("1 Hour and 30 minutes", "Available", "3-1", "UST Golden Tigresses vs. FEU Lady Tamaraws", "Maria Cassandra Rae Carballo", "Setter", "UST Golden Tigresses", "Active")
 object5 = UAAPWomensVolleyballAthletes("1 Hour", "Not Available", "4-0", "DLSU Lady Spikers vs. Ateneo Lady Eagles", "Angel Anne Canino", "Outside Hitter", "DLSU Lady Spikers", "Active")
 object6 = UAAPWomensVolleyballAthletes("1 Hour and 45 minutes", "Available", "3-0", "UP Fighting Maroons vs. Adamson Lady Falcons", "Niña Ytang", "Middle Blocker", "UP Fighting Maroons", "Inactive")
@@ -67,9 +71,9 @@ object4.displayAthleteInfo()
 object5.displayAthleteInfo()
 object6.displayAthleteInfo()
 
-print("Updating Status of object 4...")
+print("Updating Info for object 4, 5, and 6...")
 
 print("--- AFTER ---")
-object4.displayAthleteInfo()
-object5.displayAthleteInfo()
-object6.displayAthleteInfo()
+object4.displayallInfo()
+object5.displayallInfo()
+object6.displayallInfo()
