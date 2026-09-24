@@ -15,14 +15,16 @@ Child: UAAP Womens Volleyball Athletes
 Explanation: These two classes already have a parent-child relationship. That is because the parent class is more generalized while the child class is specific to the parent.
 
 ## Inheritance UML
-![Inheritance](images/inheritanceDiagram.png)
+<img width="1080" height="1920" alt="YourClass +--------------------+  class blueprint  +--------------------+  -------------------   v v object1  YourClass object2  YourClass +-------------------+ +-------------------+  attr = value (2)" src="https://github.com/user-attachments/assets/24567fc3-2b95-48ea-852d-58ba963a203c" />
+
 
 ## Composition/Aggregation
 Relationship: Composition
-Explanation: I chose composition as their relationship because my child cannot meaningfully exist without its parent. The athletes cannot meaningfully exist without the team they're in.
+Explanation: I chose composition as their relationship because my methods cannot meaningfully exist without the whole. For example, the athlete name cannot meaningfully exist without the athletes themselves.
 
 ## Advanced UML Diagram
-![Advanced UML](images/advancedClassDiagram.png)
+<img width="1080" height="1920" alt="YourClass +--------------------+  class blueprint  +--------------------+  -------------------   v v object1  YourClass object2  YourClass +-------------------+ +-------------------+  attr = value (3)" src="https://github.com/user-attachments/assets/6dcf3640-e207-4119-8901-42b3e854a752" />
+
 
 ## Python Implementation
 [Source Code](advancedRelationships.py)
@@ -47,8 +49,7 @@ Inheritance reduces duplicate codes by letting the child class inherit methods f
 3 Why is your HAS-A relationship Composition or Aggregation? Explain the lifecycle relationship
 between the two objects.
 
-I chose composition as their relationship because my child cannot meaningfully exist without its parent. The athletes cannot meaningfully exist without the team they're in and vice versa. FilipinoUAAPWomensVolleyball HAS-A UAAPWomensVolleyballAthletes
-
+I chose composition as their relationship because my child cannot meaningfully exist without its parent. As the example earlier, the athlete names cannot meaningfully exist without the athletes themselves. UAAPWomensVolleyballAthletes HAS-A Name.
 
 4 What is the difference between Association from Part III and the advanced relationship you
 implemented?
