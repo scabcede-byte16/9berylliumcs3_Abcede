@@ -17,3 +17,7 @@ OOPACT 2 = [Class Object](https://github.com/scabcede-byte16/9berylliumcs3_Abced
 OOPACT 3 = [Class Relationships](https://github.com/scabcede-byte16/9berylliumcs3_Abcede/blob/e76f90c7ade13ec421735e60097539b966ac9100/quarter1/classRelationships.md)
 
 OOPACT 4 - [Advanced Relationships](https://github.com/scabcede-byte16/9berylliumcs3_Abcede/blob/e57e254d2b05c313311542dd29259c6a30af9b0a/quarter1/advancedRelationships.md)
+
+Quarter 2:
+
+Encapsulation - [SG8_Encapsulation](https://github.com/scabcede-byte16/9berylliumcs3_Abcede/blob/028ca863cc48b089d1a28bd034d9348efc4a7040/quarter2/sg8_encapsulation.py)
