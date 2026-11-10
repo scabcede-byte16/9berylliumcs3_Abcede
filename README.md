@@ -25,3 +25,7 @@ Encapsulation - [SG8_Encapsulation](https://github.com/scabcede-byte16/9berylliu
 Inheritance - [SG9_Inheritance](https://github.com/scabcede-byte16/9berylliumcs3_Abcede/blob/d1fbd36a4ba2759b9d774eeada3cec3708485753/quarter2/sg9_Inheritance.py)
 
 Method Overriding - [SG10 Method Overriding](https://github.com/scabcede-byte16/9berylliumcs3_Abcede/blob/33005ee4a8b6affdbcd57146dea4d761f601a14e/quarter2/sg10_methodoverriding.py)
+
+Polymorphism - [SG11 Polymorphism Part 1](https://github.com/scabcede-byte16/9berylliumcs3_Abcede/blob/36fb7f0f0940f0787150f391c023d69c1bec3713/quarter2/sg11_Polymorphism1.py)
+
+Polymorphism - [SG11 Polymorphism Part 2](https://github.com/scabcede-byte16/9berylliumcs3_Abcede/blob/36fb7f0f0940f0787150f391c023d69c1bec3713/quarter2/sg11_polymorphism2.py)
