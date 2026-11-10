@@ -6,7 +6,7 @@ class Animal: # This is the parent/super class
     def eat(self): #This is the method of the parent class that represents an eating animal
         print(f"{self.name} is eating.")
     def make_sound(self): #This method represents an animal making a sound
-        print(f"{self.name} makes a sound.")
+        print(f"{self.name} makes a sound.") 
         
 class Lion(Animal): # This is the child/subclass of Animal
     def make_sound(self): # This method overrides the initial make_sound method from the parent class
